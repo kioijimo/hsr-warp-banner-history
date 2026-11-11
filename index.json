@@ -2390,6 +2390,125 @@
             "is_exclusive": true
         },
         {
+            "desc": "",
+            "gacha_type": "11",
+            "id": "2142",
+            "version": "4.4",
+            "rateup4": [
+                1009,
+                1110,
+                1207
+            ],
+            "companion_banner": 2143,
+            "end_time": 1797969540,
+            "rateup": 1511,
+            "rerun": 0,
+            "start_time": 1794355140,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Indelible Coterie: Silver Wolf LV.999",
+            "gacha_type": "11",
+            "id": "2143",
+            "version": "4.4",
+            "rateup4": [
+                1009,
+                1110,
+                1207
+            ],
+            "companion_banner": 2142,
+            "end_time": 1796230740,
+            "rateup": 1506,
+            "rerun": 1,
+            "start_time": 1794355140,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Indelible Coterie: Sparxie",
+            "gacha_type": "11",
+            "id": "2144",
+            "version": "4.4",
+            "rateup4": [
+                1009,
+                1110,
+                1207
+            ],
+            "companion_banner": 2143,
+            "end_time": 1796230740,
+            "rateup": 1501,
+            "rerun": 2,
+            "start_time": 1794355140,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Indelible Coterie: Yao Guang",
+            "gacha_type": "11",
+            "id": "2145",
+            "version": "4.4",
+            "rateup4": [
+                1009,
+                1110,
+                1207
+            ],
+            "companion_banner": 2144,
+            "end_time": 1796230740,
+            "rateup": 1502,
+            "rerun": 2,
+            "start_time": 1794355140,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Indelible Coterie: Acheron",
+            "gacha_type": "11",
+            "id": "2146",
+            "version": "4.4",
+            "rateup4": [
+                1009,
+                1110,
+                1207
+            ],
+            "companion_banner": 2142,
+            "end_time": 1797969540,
+            "rateup": 1308,
+            "rerun": 3,
+            "start_time": 1796184000,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Indelible Coterie: Dan Heng • Imbibitor Lunae",
+            "gacha_type": "11",
+            "id": "2147",
+            "version": "4.4",
+            "rateup4": [
+                1009,
+                1110,
+                1207
+            ],
+            "companion_banner": 2146,
+            "end_time": 1797969540,
+            "rateup": 1213,
+            "rerun": 3,
+            "start_time": 1796184000,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Indelible Coterie: Jing Yuan",
+            "gacha_type": "11",
+            "id": "2148",
+            "version": "4.4",
+            "rateup4": [
+                1009,
+                1110,
+                1207
+            ],
+            "companion_banner": 2147,
+            "end_time": 1797969540,
+            "rateup": 1204,
+            "rerun": 3,
+            "start_time": 1796184000,
+            "is_exclusive": true
+        },
+        {
             "desc": "In the Night",
             "gacha_type": "12",
             "id": "3003",
@@ -4750,6 +4869,125 @@
             "rateup": 23059,
             "rerun": 1,
             "start_time": 1792555200,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Upon the First Echo of \"Aha\"",
+            "gacha_type": "12",
+            "id": "3142",
+            "version": "4.4",
+            "rateup4": [
+                21016,
+                21020,
+                21047
+            ],
+            "companion_banner": 3143,
+            "end_time": 1797969540,
+            "rateup": 23065,
+            "rerun": 0,
+            "start_time": 1794355140,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Coalesced Truths: Welcome to the Cosmic City",
+            "gacha_type": "12",
+            "id": "3143",
+            "version": "4.4",
+            "rateup4": [
+                21016,
+                21020,
+                21047
+            ],
+            "companion_banner": 3142,
+            "end_time": 1796230740,
+            "rateup": 23057,
+            "rerun": 1,
+            "start_time": 1794355140,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Coalesced Truths: Dazzled by a Flowery World",
+            "gacha_type": "12",
+            "id": "3144",
+            "version": "4.4",
+            "rateup4": [
+                21016,
+                21020,
+                21047
+            ],
+            "companion_banner": 3143,
+            "end_time": 1796230740,
+            "rateup": 23053,
+            "rerun": 2,
+            "start_time": 1794355140,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Coalesced Truths: When She Decided to See",
+            "gacha_type": "12",
+            "id": "3145",
+            "version": "4.4",
+            "rateup4": [
+                21016,
+                21020,
+                21047
+            ],
+            "companion_banner": 3144,
+            "end_time": 1796230740,
+            "rateup": 23054,
+            "rerun": 2,
+            "start_time": 1794355140,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Coalesced Truths: Along the Passing Shore",
+            "gacha_type": "12",
+            "id": "3146",
+            "version": "4.4",
+            "rateup4": [
+                21016,
+                21020,
+                21047
+            ],
+            "companion_banner": 3142,
+            "end_time": 1797969540,
+            "rateup": 23024,
+            "rerun": 3,
+            "start_time": 1796184000,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Coalesced Truths: Brighter Than the Sun",
+            "gacha_type": "12",
+            "id": "3147",
+            "version": "4.4",
+            "rateup4": [
+                21016,
+                21020,
+                21047
+            ],
+            "companion_banner": 3146,
+            "end_time": 1797969540,
+            "rateup": 23015,
+            "rerun": 3,
+            "start_time": 1796184000,
+            "is_exclusive": true
+        },
+        {
+            "desc": "Coalesced Truths: Before Dawn",
+            "gacha_type": "12",
+            "id": "3148",
+            "version": "4.4",
+            "rateup4": [
+                21016,
+                21020,
+                21047
+            ],
+            "companion_banner": 3147,
+            "end_time": 1797969540,
+            "rateup": 23010,
+            "rerun": 3,
+            "start_time": 1796184000,
             "is_exclusive": true
         },
         {
